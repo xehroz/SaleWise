@@ -7,4 +7,4 @@ Our project is currently looking for volunteer C# programmers and MS SQL Databas
 We currently don't need donations, but if someone may buy us a dedicated domain name (i.e URL address like [<http://ossads.org>]) or [<http://salewise.pk>]) this would be very useful. 
 
 # Contact
-You can contact Mr. Shehroz Kaleem (Project Coordinator/Founder) through email at <me AT shehroz DOT pk>
+You can contact Mr. Shehroz Kaleem (Project Coordinator/Founder) through email at [me AT shehroz DOT pk]
